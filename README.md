@@ -1,3 +1,6 @@
+# Note
+This is a fork of n64tools with some minor changes to make it compile on Windows using MSYS.
+
 # sm64tools
 Collection of tools for manipulating the Super Mario 64 ROM
 
